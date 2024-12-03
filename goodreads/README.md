@@ -27,17 +27,17 @@ The Goodreads dataset encompasses details on books, ratings, authors, and user r
 #### Book ID Distribution
 A distribution plot of book IDs illustrates the spread and frequency of IDs throughout the dataset.
 
-[![Book ID Distribution](goodreads/book_id_distribution.png)](https://github.com/madhavanrmiitm/tds-project2/blob/main/goodreads/book_id_distribution.png)
+![Book ID Distribution(goodreads/book_id_distribution.png)](https://github.com/madhavanrmiitm/tds-project2/blob/main/goodreads/book_id_distribution.png)
 
 #### Correlation Heatmap
 A correlation heatmap was created to illustrate the relationships among the numerical features within the dataset.
 
-[![Correlation Heatmap](goodreads/correlation_heatmap.png)](https://github.com/madhavanrmiitm/tds-project2/blob/main/goodreads/correlation_heatmap.png)
+![Correlation Heatmap(goodreads/correlation_heatmap.png)](https://github.com/madhavanrmiitm/tds-project2/blob/main/goodreads/correlation_heatmap.png)
 
 #### Rating Distribution
 A distribution plot of book ratings reveals the spread and pattern of ratings across the dataset.
 
-[![Rating Distribution](goodreads/rating_distribution.png)](https://github.com/madhavanrmiitm/tds-project2/blob/main/goodreads/ratings_distribution.png)
+![Rating Distribution(goodreads/rating_distribution.png)](https://github.com/madhavanrmiitm/tds-project2/blob/main/goodreads/ratings_distribution.png)
 
 ### Dataset Narrative
 The analysis of the Goodreads dataset uncovers key insights into the connections between book ratings, the number of reviews, and genres. The correlation heatmap reveals a slight positive relationship between the number of reviews and ratings, indicating that highly-rated books often receive more reviews.
