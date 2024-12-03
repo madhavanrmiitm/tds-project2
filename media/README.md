@@ -1,7 +1,7 @@
 # Media Dataset Analysis
 
 ## Overview
-The Media dataset contains information about various media properties like views, ratings, and genres. The analysis covers the dataset's summary statistics, missing values, and provides visualizations to understand the distribution of views and ratings.
+The Media dataset includes details on various media attributes such as views, ratings, and genres. The analysis encompasses summary statistics, identifies missing values, and offers visualizations to explore the distribution of views and ratings.
 
 ## Dataset Summary
 
@@ -25,7 +25,7 @@ The Media dataset contains information about various media properties like views
 #### Correlation Heatmap
 A correlation heatmap was created to illustrate the relationships among the numerical features within the dataset.
 
-[![Correlation Heatmap](media/correlation_heatmap.png)](https://github.com/madhavanrmiitm/tds-project2/blob/main/media/correlation_heatmap.png)
+![Correlation Heatmap(media/correlation_heatmap.png)](https://github.com/madhavanrmiitm/tds-project2/blob/main/media/correlation_heatmap.png)
 
 #### Overall Distribution
 A distribution plot of overall ratings displays the frequency and distribution of ratings across the dataset, with a noticeable concentration around certain rating values.
@@ -33,6 +33,6 @@ A distribution plot of overall ratings displays the frequency and distribution o
 ![Overall Distribution(media/overall_distribution.png)](https://github.com/madhavanrmiitm/tds-project2/blob/main/media/overall_distribution.png)
 
 ### Dataset Narrative
-The analysis of the Media dataset indicates that there is a high variance in views, with a few media items getting extremely high views. The rating distribution shows a relatively even spread across the ratings, with a slight bias toward higher ratings.
+The analysis of the Media dataset reveals significant variance in views, with a small number of media items receiving exceptionally high views. The rating distribution is fairly uniform, though there is a slight tendency toward higher ratings.
 
-The views and ratings of the media are not strongly correlated, which suggests that high views do not necessarily mean high ratings.
+There is little correlation between views and ratings, suggesting that high view counts do not necessarily correlate with high ratings.
