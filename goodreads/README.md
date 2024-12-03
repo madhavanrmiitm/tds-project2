@@ -27,7 +27,7 @@ The Goodreads dataset encompasses details on books, ratings, authors, and user r
 #### Book ID Distribution
 A distribution plot of book IDs illustrates the spread and frequency of IDs throughout the dataset.
 
-[Book ID Distribution(goodreads/book_id_distribution.png)](https://github.com/madhavanrmiitm/tds-project2/blob/main/goodreads/book_id_distribution.png)
+![Book ID Distribution(goodreads/book_id_distribution.png)](https://github.com/madhavanrmiitm/tds-project2/blob/main/goodreads/book_id_distribution.png)
 
 #### Correlation Heatmap
 A correlation heatmap was created to illustrate the relationships among the numerical features within the dataset.
