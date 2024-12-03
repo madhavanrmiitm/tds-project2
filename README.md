@@ -44,6 +44,9 @@ The repository is organized into the following structure:
 ├── LICENSE
 ├── README.md
 ├── autolysis.py
+├── goodreads.csv
+├── happiness.csv
+├── media.csv
 └── overall_distribution.png
 ```
 
