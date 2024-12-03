@@ -25,7 +25,7 @@ The Happiness dataset contains data on various factors influencing happiness, in
 #### Correlation Heatmap
 A correlation heatmap was created to illustrate the relationships among the numerical features within the dataset.
 
-![Correlation Heatmap(happiness/correlation_heatmap.png)](https://github.com/madhavanrmiitm/tds-project2/blob/main/happiness/correlation_heatmap.png)
+[Correlation Heatmap(happiness/correlation_heatmap.png)](https://github.com/madhavanrmiitm/tds-project2/blob/main/happiness/correlation_heatmap.png)
 
 #### Year Distribution
 A distribution plot of publication years shows the frequency and spread of books across different years in the dataset.
